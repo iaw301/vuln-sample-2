@@ -1,0 +1,8 @@
+# Đáp án và thang điểm chấm của Giảng viên (Không push lên Git của sinh viên)
+SOLUTION.md
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
